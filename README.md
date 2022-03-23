@@ -4,15 +4,15 @@ This project build on react/RAPIDapi, there you will see google map, on which yo
 like hotels, restaurants, attractions. 
 ## Instruction to use this Application
 
-git clone https://github.com/Upman32/TravelAdviser.git
+`git clone https://github.com/Upman32/TravelAdviser.git`
 
-cd TravelAdviser
+`cd TravelAdviser`
 
-npm i 
+`npm i `
 
 after installation node_modules you can start project!
 
-npm start
+`npm start`
 
 ## Where you must register to use this app?
 
